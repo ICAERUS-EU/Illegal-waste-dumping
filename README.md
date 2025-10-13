@@ -29,8 +29,8 @@ Copy the entire unzipped folder (e.g., `Illegal waste dumping` or similar) into 
 
 - Open **QGIS**.
 - Go to **Plugins > Manage and Install Plugins...**
-- Find **IWD** or **Illegal Waste Detection** in the list.
-- Click **Install** or **Enable**.
+- Find **Illegal Waste Duping 2.0** in the list.
+- Enable the plugin.
 
 ---
 
