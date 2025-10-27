@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Illegal Waste Dumping Detector",
+    "creator": "Institute for Security and Strategic Reserach",
+    "date": "27/10/2025",
+    "icon": "https://github.com/ICAERUS-EU/Illegal-waste-dumping/blob/main/Illegal_waste_dumping_icon.png",
+    "url": "https://github.com/ICAERUS-EU/Illegal-waste-dumping",
+    "icaerus_applications": [
+      "forestry-and-biodiversity",
+      "rural-logistics",
+      "crop-monitoring"
+    ],
+    "uses_cases": [1, 3, 4],
+    "extra": {
+      "contact": "david@onedrone.si",
+      "status": "prototype",
+      "notes": "Integrates orthomosaic and multispectral imagery (optional LiDAR) for automated detection of illegal waste sites."
+    },
+    "filters": {
+      "content": [
+        "Machine learning",
+        "Deep learning",
+        "Computer vision",
+        "Detection",
+        "Change detection",
+        "Anomaly detection",
+        "Segmentation",
+        "Orthomosaic processing",
+        "GIS"
+      ],
+      "data-type": [
+        "RGB images",
+        "Multispectral images",
+        "Orthomosaic"
+      ],
+      "subject": [
+        "Illegal waste dumping",
+        "Land-cover change",
+        "Forestry"
+      ],
+      "location": [
+        "Slovenia"
+      ],
+      "model_input": [
+        "Orthomosaic",
+        "NDVI orthomosaic"
+      ],
+      "model_output": [
+        "Waste hotspot polygons",
+        "Object-level annotations (geojson)",
+      ]
+    }
+  }
+]
