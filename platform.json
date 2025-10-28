@@ -1,7 +1,7 @@
 [
   {
     "title": "Illegal Waste Dumping Detector",
-    "creator": "Institute for Security and Strategic Reserach",
+    "creator": "Institute for Security and Strategic Research",
     "date": "27/10/2025",
     "icon": "https://github.com/ICAERUS-EU/Illegal-waste-dumping/blob/main/Illegal_waste_dumping_icon.png",
     "url": "https://github.com/ICAERUS-EU/Illegal-waste-dumping",
@@ -47,7 +47,7 @@
       ],
       "model_output": [
         "Waste hotspot polygons",
-        "Object-level annotations (geojson)",
+        "Object-level annotations (geojson)"
       ]
     }
   }
