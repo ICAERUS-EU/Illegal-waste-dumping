@@ -10,7 +10,7 @@
       "rural-logistics",
       "crop-monitoring"
     ],
-    "uses_cases": [1, 3, 4],
+    "uses_cases": ["1", "3", "4"],
     "extra": {
       "contact": "david@onedrone.si",
       "status": "prototype",
